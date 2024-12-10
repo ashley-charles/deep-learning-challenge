@@ -1,4 +1,4 @@
-*Data Preprocessing*
+# _*Data Preprocessing_
 
 # What variable(s) are the target(s) for your model?
 
@@ -12,7 +12,7 @@ The feature variables are every other column from application_df --> this was de
 
 Both 'EIN' and 'NAME' columns were dropped/removed, because they were neither targets nor features for the dataset.
 
-_Compiling, Training, and Evaluating the Model_
+# _*Compiling, Training, and Evaluating the Model_
 
 # How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
